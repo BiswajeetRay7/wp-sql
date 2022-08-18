@@ -1,10 +1,10 @@
 <div align="center">
      <h2>wp-sql</h2>
     <p>wp-sql is a tool for finding wordpress sql files</p>
-    <a href="https://github.com/BiswajeetRay7/wp-sql/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BiswajeetRay7/wp-sql"></a>
-    <a href="https://github.com/BiswajeetRay7/wp-sql/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BiswajeetRay7/wp-sql"></a>
-    <a href="https://github.com/BiswajeetRay7/wp-sql/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/BiswajeetRay7/wp-sql"></a>
-    <a href="https://github.com/BiswajeetRay7/wp-sql/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/BiswajeetRay7/wp-sql"></a>   
+    <a href="https://github.com/BiswajeetRay7/wp-sql.git/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BiswajeetRay7/wp-sql"></a>
+    <a href="https://github.com/BiswajeetRay7/wp-sql.git/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BiswajeetRay7/wp-sql"></a>
+    <a href="https://github.com/BiswajeetRay7/wp-sql.git/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/BiswajeetRay7/wp-sql"></a>
+    <a href="https://github.com/BiswajeetRay7/wp-sql.git/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/BiswajeetRay7/wp-sql"></a>   
 </div>
 
 ## About
